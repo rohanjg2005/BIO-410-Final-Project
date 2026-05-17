@@ -11,9 +11,9 @@ Raw paired-end sequencing reads generated via next-generation sequencing (NGS) a
 ## Results
 
 Here is the phylogenetic tree:
-(Insert the image, see the markdown cheat sheet for how to do that)
 
-![Example image of a phylogenetic tree](Rplot1.png)<img width="861" height="516" alt="Rplot01" src="https://github.com/user-attachments/assets/3250d305-6c47-4640-8cd0-3011dd9d97c7" />
+
+<img width="861" height="516" alt="Rplot01" src="https://github.com/user-attachments/assets/3250d305-6c47-4640-8cd0-3011dd9d97c7" />
 
 
 Explain
