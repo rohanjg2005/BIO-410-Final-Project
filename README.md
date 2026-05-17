@@ -13,7 +13,7 @@ Raw paired-end sequencing reads generated via next-generation sequencing (NGS) a
 Here is the phylogenetic tree:
 (Insert the image, see the markdown cheat sheet for how to do that)
 
-![Example image of a phylogenetic tree](FiveIngroupSpecies.png)
+![Example image of a phylogenetic tree](Rplot1.png)
 
 Explain
 Based on my results it seems like the 6 Ebola virus samples show 2 distinct evolutionary lineages. Samples 2 and 3 form one cluster on one branch of the tree and samples 1,4,5,and 6 form another cluster on the other branch of the tree. Samples 2 and 3 are closely related to each other and samples 1,4,5,and 6 are closely related to each other, with samples 1,4,and 6 being more closely related to each other than sample 5 as it branched off. Despite that, the branching pattern suggests that these 6 samples likely originated from 2 distinct individuals and the genetic distance between the 2 clusters represents differentiation between the 2 lineages.
